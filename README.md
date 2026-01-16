@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Shreyansh Puri `
+- **CCID:** `spuri2`
 
 ## References and Resources
 
